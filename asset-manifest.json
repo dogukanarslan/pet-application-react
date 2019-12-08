@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pet-application-react/static/css/main.7bf197c9.chunk.css",
-    "main.js": "/pet-application-react/static/js/main.12c94b1c.chunk.js",
-    "main.js.map": "/pet-application-react/static/js/main.12c94b1c.chunk.js.map",
+    "main.js": "/pet-application-react/static/js/main.a4f08eda.chunk.js",
+    "main.js.map": "/pet-application-react/static/js/main.a4f08eda.chunk.js.map",
     "runtime-main.js": "/pet-application-react/static/js/runtime-main.a2e961bd.js",
     "runtime-main.js.map": "/pet-application-react/static/js/runtime-main.a2e961bd.js.map",
     "static/css/2.17e5ed98.chunk.css": "/pet-application-react/static/css/2.17e5ed98.chunk.css",
     "static/js/2.98d1e7ea.chunk.js": "/pet-application-react/static/js/2.98d1e7ea.chunk.js",
     "static/js/2.98d1e7ea.chunk.js.map": "/pet-application-react/static/js/2.98d1e7ea.chunk.js.map",
     "index.html": "/pet-application-react/index.html",
-    "precache-manifest.223fc01ec497244519d5f06ba73fc75b.js": "/pet-application-react/precache-manifest.223fc01ec497244519d5f06ba73fc75b.js",
+    "precache-manifest.d42ed635688eff2bb0359265b1251ac9.js": "/pet-application-react/precache-manifest.d42ed635688eff2bb0359265b1251ac9.js",
     "service-worker.js": "/pet-application-react/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/pet-application-react/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.7bf197c9.chunk.css.map": "/pet-application-react/static/css/main.7bf197c9.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.98d1e7ea.chunk.js",
     "static/css/main.7bf197c9.chunk.css",
-    "static/js/main.12c94b1c.chunk.js"
+    "static/js/main.a4f08eda.chunk.js"
   ]
 }
