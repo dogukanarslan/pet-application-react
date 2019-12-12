@@ -30,7 +30,7 @@ class Pet extends React.Component {
                         <div>
                             <span className="badge badge-primary" style={{fontSize: "12px"}}>{breed}</span>
                         </div>
-                        
+
                         <div>
                             <span className="badge badge-warning" style={{fontSize: "12px"}}>{age}</span>
                         </div>
